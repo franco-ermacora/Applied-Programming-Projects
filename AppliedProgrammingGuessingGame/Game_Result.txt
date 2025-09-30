@@ -1,0 +1,21 @@
+Date: 2025-09-29 23:53:27
+Level (max number): 50
+Won: true
+Secret number: 17
+Attempts: 6
+Record: [35, 15, 25, 19, 16, 17]
+------------
+Date: 2025-09-29 23:54:10
+Level (max number): 200
+Won: true
+Secret number: 120
+Attempts: 4
+Record: [100, 150, 130, 120]
+------------
+Date: 2025-09-30 12:57:01
+Level (max number): 50
+Won: false
+Secret number: 18
+Attempts: 7
+Record: [4, 45, 32, 15, 25, 19, 17]
+------------
