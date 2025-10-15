@@ -1,0 +1,15 @@
+C:\Users\frank\Documents\Applied-Programming-Projects\AppliedProgrammingTicTacToe\bin\Debug\net9.0-windows\Applied-Programming-Projects.exe
+C:\Users\frank\Documents\Applied-Programming-Projects\AppliedProgrammingTicTacToe\bin\Debug\net9.0-windows\Applied-Programming-Projects.deps.json
+C:\Users\frank\Documents\Applied-Programming-Projects\AppliedProgrammingTicTacToe\bin\Debug\net9.0-windows\Applied-Programming-Projects.runtimeconfig.json
+C:\Users\frank\Documents\Applied-Programming-Projects\AppliedProgrammingTicTacToe\bin\Debug\net9.0-windows\Applied-Programming-Projects.dll
+C:\Users\frank\Documents\Applied-Programming-Projects\AppliedProgrammingTicTacToe\bin\Debug\net9.0-windows\Applied-Programming-Projects.pdb
+C:\Users\frank\Documents\Applied-Programming-Projects\AppliedProgrammingTicTacToe\obj\Debug\net9.0-windows\Applied-Programming-Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\Documents\Applied-Programming-Projects\AppliedProgrammingTicTacToe\obj\Debug\net9.0-windows\Applied-Programming-Projects.AssemblyInfoInputs.cache
+C:\Users\frank\Documents\Applied-Programming-Projects\AppliedProgrammingTicTacToe\obj\Debug\net9.0-windows\Applied-Programming-Projects.AssemblyInfo.cs
+C:\Users\frank\Documents\Applied-Programming-Projects\AppliedProgrammingTicTacToe\obj\Debug\net9.0-windows\Applied-Programming-Projects.csproj.CoreCompileInputs.cache
+C:\Users\frank\Documents\Applied-Programming-Projects\AppliedProgrammingTicTacToe\obj\Debug\net9.0-windows\Applied-Programming-Projects.sourcelink.json
+C:\Users\frank\Documents\Applied-Programming-Projects\AppliedProgrammingTicTacToe\obj\Debug\net9.0-windows\Applied-Programming-Projects.dll
+C:\Users\frank\Documents\Applied-Programming-Projects\AppliedProgrammingTicTacToe\obj\Debug\net9.0-windows\refint\Applied-Programming-Projects.dll
+C:\Users\frank\Documents\Applied-Programming-Projects\AppliedProgrammingTicTacToe\obj\Debug\net9.0-windows\Applied-Programming-Projects.pdb
+C:\Users\frank\Documents\Applied-Programming-Projects\AppliedProgrammingTicTacToe\obj\Debug\net9.0-windows\Applied-Programming-Projects.genruntimeconfig.cache
+C:\Users\frank\Documents\Applied-Programming-Projects\AppliedProgrammingTicTacToe\obj\Debug\net9.0-windows\ref\Applied-Programming-Projects.dll

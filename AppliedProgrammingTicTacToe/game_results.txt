@@ -1,0 +1,12 @@
+
+2025-10-13 23:51:24 | Ganador: X | Interfaz: Consola
+2025-10-13 23:53:18 | Ganador: X | Interfaz: Gráfica
+2025-10-14 13:08:17 | Ganador: O | Interfaz: Consola
+2025-10-14 13:10:59 | Ganador: X | Interfaz: Consola
+2025-10-14 13:11:10 | Ganador: X | Interfaz: Gráfica
+2025-10-14 13:11:22 | Ganador: X | Interfaz: Gráfica
+2025-10-14 13:11:39 | Ganador: Draw | Interfaz: Gráfica
+2025-10-14 21:22:27 | Ganador: X | Interfaz: Consola
+2025-10-14 21:23:45 | Ganador: X | Interfaz: Gráfica
+2025-10-14 21:23:55 | Ganador: X | Interfaz: Gráfica
+2025-10-14 21:24:10 | Ganador: Draw | Interfaz: Gráfica

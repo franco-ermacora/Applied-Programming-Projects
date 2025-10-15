@@ -1,0 +1,5 @@
+C:\Users\frank\Documents\Applied-Programming-Projects\AppliedProgrammingTicTacToe\obj\Debug\net9.0\Applied-Programming-Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\Documents\Applied-Programming-Projects\AppliedProgrammingTicTacToe\obj\Debug\net9.0\Applied-Programming-Projects.AssemblyInfoInputs.cache
+C:\Users\frank\Documents\Applied-Programming-Projects\AppliedProgrammingTicTacToe\obj\Debug\net9.0\Applied-Programming-Projects.AssemblyInfo.cs
+C:\Users\frank\Documents\Applied-Programming-Projects\AppliedProgrammingTicTacToe\obj\Debug\net9.0\Applied-Programming-Projects.csproj.CoreCompileInputs.cache
+C:\Users\frank\Documents\Applied-Programming-Projects\AppliedProgrammingTicTacToe\obj\Debug\net9.0\Applied-Programming-Projects.sourcelink.json
